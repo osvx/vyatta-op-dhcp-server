@@ -1,3 +1,9 @@
+vyatta-op-dhcp-server (0.14.0+osvx1+projectx1) unstable; urgency=medium
+
+  * Switch to OS/VX
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Sun, 01 Jun 2014 21:09:42 +0400
+
 vyatta-op-dhcp-server (0.14.0+vyos1+helium3) unstable; urgency=low
 
   * Bug #122: Move DHCPv6 lease file to /config to make it survive image
